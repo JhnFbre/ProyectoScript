@@ -15,7 +15,15 @@
     background-position: top;
     background-size: 60%;
 }
-
+.contenedorli1 {
+    width: 189px;
+    height: 189px;
+    right: 30px;
+    top: -6px;
+    background: url(../img/1.png)no-repeat;
+    background-position: top;
+    background-size: 60%;
+}
 .contenedorli2 {
     width: 189px;
     height: 189px;
